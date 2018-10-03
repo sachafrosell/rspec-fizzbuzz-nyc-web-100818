@@ -1,4 +1,4 @@
-def fizzbuzz(num)
+def fizzbuzz
  
 end
 # Don't forget! This file needs to be 'required' in its spec file
